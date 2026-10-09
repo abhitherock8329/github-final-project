@@ -1,6 +1,6 @@
-Contributing
+ Contributing
 
-Thank you for your interest in contributing to this project!
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 How to Contribute
 
@@ -11,21 +11,16 @@ How to Contribute
 
 Reporting Bugs
 
-Please report bugs by opening an issue. Include a clear description of the problem and steps to reproduce it.
+Report bugs by opening an issue with a clear description and steps to reproduce the problem.
 
 Suggesting Enhancements
 
-Suggestions for new features and improvements are welcome. Please open an issue describing your idea.
+Open an issue to suggest new features or improvements.
 
 Code Guidelines
 
 * Write clear and readable code.
-* Keep changes focused and simple.
+* Test your changes before submitting.
 * Update documentation when necessary.
-* Test your changes before submitting a pull request.
 
-Community
-
-All contributors are expected to follow the project’s Code of Conduct.
-
-Thank you for helping improve this project!
+Thank you for contributing!
